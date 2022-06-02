@@ -1,6 +1,6 @@
 # Link para as imagens
 
- - Se você é o autor de alguma das imagens e quer remover ela envie um email para *<a href="mailto:rsoaresraul@gmail.com?subject=Hello%20again">Raul R. Soares</a>* e **vou remover o mais rapido possível**.
+ - Se você é o autor de alguma das imagens e quer remover ela envie um email para *<a href="mailto:rsoaresraul@gmail.com?subject=Retire%20a%20Imagen%20[nome-da-imagem]%20do%20seu%20perfil">Raul R. Soares</a>* e **vou remover o mais rapido possível**.
 
 ### Visível
 <ul >
