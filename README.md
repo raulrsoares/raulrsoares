@@ -46,6 +46,7 @@
 <div align="left">
     <a href="https://github.com/raulrsoares/P1-HTML" target="_blank"> <img align="center"  src="imgs/html5-original-wordmark.svg" height="40" width="40" /> </a>
     <a href="https://github.com/raulrsoares/P2-HTML" target="_blank"> <img align="center"  src="imgs/html5-original-wordmark.svg" height="40" width="40" /> </a>
+    <a href="https://github.com/raulrsoares/P3-HTML+CSS" target="_blank"> <img align="center" src="imgs/css3-original-wordmark.svg" height="40" width="40"/> </a>
 </div>
 
 <br>
