@@ -32,8 +32,6 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="imgs/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> -->
 </div>
 
-<br>
-
 <!--
 <div align="left">
     <h3>
