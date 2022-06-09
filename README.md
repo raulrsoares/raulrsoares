@@ -54,4 +54,8 @@
 <div alig="left">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=raulrsoares&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" height="180em"alt="raulrsoares" /> 
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="raulrsoares" />
-</div><br><br><br>
+</div><br><br>
+
+---
+
+<sub>Copyright © 2022 Raul R. Soares </sub>
