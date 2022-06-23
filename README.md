@@ -1,5 +1,11 @@
 <h1 align="left">Olá 👋, sou Raul R. Soares</h1>
-<!-- <h3 align="center">Um desenvolvedor front-end apaixonado da Índia</h3> -->
+<h3 align="left">Tecnico em Redes de computadores em ascensão p/ DevOps</h3>
+
+<div align="left">
+    <ul>
+        <li>Atualmete trabalhando com o peojeto de um robô sumo com controle remoto para as aulas de robótica no sesi <a href="https://github.com/raulrsoares/robot" target="_blank"> repositório </a> 
+    </ul>
+</div>
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat" alt="raulrsoares" /> </p>
 
@@ -21,7 +27,8 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" > <img src="imgs/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/> </a>
     <a href="https://github.com/" target="_blank" rel="noreferrer" > <img  src="imgs/github.png" alt="GitHub" width="40" height="40"/> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="imgs/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="imgs/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
+    <!--
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="imgs/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  -->
     <!--
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="imgs/python-original.svg" alt="python" width="40" height="40"/> </a> -->
     <!-- 
@@ -32,13 +39,12 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="imgs/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> -->
 </div>
 
-<!--
+
+<h3 align="left">:construction:  Projetos em construção  :construction:</h3>
 <div align="left">
-    <h3>
-        :construction:  Projetos em construção  :construction:
-    </h3>
+    <a href="https://github.com/raulrsoares/robot" target="_blank"> <img align="center" src="imgs/arduino.svg" height="40" width="40"/> </a>
 </div>
--->
+
 
 <h3 align="left">:open_file_folder:Ultimos Projetos:open_file_folder:</h3>
 <div align="left">
@@ -50,8 +56,8 @@
 <br>
 
 <div alig="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=raulrsoares&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" height="180em"alt="raulrsoares" /> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="raulrsoares" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=raulrsoares&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" height="180em"alt="raulrsoares" /> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=gotham" alt="raulrsoares" />
 </div><br><br><br>
 
 ---
