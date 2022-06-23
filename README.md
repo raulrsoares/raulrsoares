@@ -5,7 +5,7 @@
     <ul>
         <li>Atualmete trabalhando com o peojeto de um robô sumo com controle remoto para as aulas de robótica no sesi <a href="https://github.com/raulrsoares/robot" target="_blank"> repositório </a> 
     </ul>
-</div>
+</div> 
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat" alt="raulrsoares" /> </p>
 
