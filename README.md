@@ -13,7 +13,7 @@
 <div align="left">
     <a href="https://dev.to/raulrsoares" target="_blank"><img align="center" src="imgs/dev-rainbow.svg" alt="raulrsoares" height="30" largura ="40"></a>
     <a href="https://www.linkedin.com/in/raul-rodrigues-soares-4b7975232/" target="_blank"><img align="center" src="imgs/linked-in-alt.svg" alt="Raul Rodrigues Soares" height="30" width="40" /></a>
-    <a href= "https://instagram.com/r4aulrs" target="_blank"><img align="center" src="imgs/instagram.svg" alt="r4aulrs" height="30" largura="40" /></a>
+    <a href= "https://instagram.com/r4ulrs" target="_blank"><img align="center" src="imgs/instagram.svg" alt="r4aulrs" height="30" largura="40" /></a>
     <a href="https://discord.com/users/535253561551093771" target="_blank"><img align="center"src="imgs/discord.svg" alt="r4ulzito#8134" height="30" largura="40" /></a>
     <br>
     <br>
