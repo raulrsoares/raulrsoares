@@ -5,7 +5,6 @@
 ### Visível
 <ul >
     <li><a href="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/aws.svg" target="_blank" rel="noreferrer" > AWS </a> </li>
-    <li><a href="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" target="_blank" rel="noreferrer" > DEV </a> </li>
     <li><a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" target="_blank" rel="noreferrer" > Discord </a> </li>
     <li><a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank" > Git scm </a> </li>
     <li><a href="https://www.flaticon.com/br/icone-gratis/github_179323?term=github&page=1&position=19&page=1&position=19&related_id=179323&origin=search" target="_blank" rel="noreferrer" > Github </a> </li>
@@ -23,4 +22,5 @@
     <li><a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" target="_blank" rel="noreferrer"> Node.Js </a> </li>
     <li><a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank" rel="noreferrer"> Python </a> </li>
     <li><a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" target="_blank" rel="noreferrer"> React </a> </li>
+    <li><a href="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" target="_blank" rel="noreferrer" > DEV </a> </li>
 </ul>
