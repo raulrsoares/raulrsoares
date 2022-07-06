@@ -18,7 +18,7 @@
     <a href="https://discord.com/users/535253561551093771" target="_blank"><img align="center"src="imgs/discord.svg" alt="r4ulzito#8134" height="30" largura="40" /></a>
     <br>
     <br>
-    <a href="https://twitter.com/imslowlydyin_" target="_blank"><img src="https://img.shields.io/twitter/follow/imslowlydyin_?logo=twitter&style=for-the-badge" alt="imslowlydyin_" /></a>
+    <a href="https://twitter.com/raulzito_rs" target="_blank"><img src="https://img.shields.io/twitter/follow/raulzito_rs?logo=twitter&style=for-the-badge" alt="raulzito_rs" /></a>
 </div>
 
 <h3 align="left">:unlock:Idiomas e ferramentas:unlock:</h3>
