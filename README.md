@@ -1,11 +1,13 @@
 <h1 align="left">Olá 👋, sou Raul R. Soares</h1>
 <h3 align="left">Tecnico em Redes de computadores em ascensão p/ DevOps</h3>
 
+<!--
 <div align="left">
     <ul>
         <li>Atualmete trabalhando com o peojeto de um robô sumo com controle remoto para as aulas de robótica no sesi <a href="https://github.com/raulrsoares/robot" target="_blank"> repositório </a> 
     </ul>
 </div> 
+-->
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat" alt="raulrsoares" /> </p>
 
@@ -40,18 +42,18 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="imgs/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> -->
 </div>
 
-
+<!--
 <h3 align="left">:construction:  Projetos em construção  :construction:</h3>
 <div align="left">
-    <a href="https://github.com/raulrsoares/robot" target="_blank"> <img align="center" src="imgs/arduino.svg" height="40" width="40"/> </a>
 </div>
-
+-->
 
 <h3 align="left">:open_file_folder:Ultimos Projetos:open_file_folder:</h3>
 <div align="left">
     <a href="https://github.com/raulrsoares/P1-HTML" target="_blank"> <img align="center"  src="imgs/html5-original-wordmark.svg" height="40" width="40" /> </a>
     <a href="https://github.com/raulrsoares/P2-HTML" target="_blank"> <img align="center"  src="imgs/html5-original-wordmark.svg" height="40" width="40" /> </a>
     <a href="https://github.com/raulrsoares/P3-HTML+CSS" target="_blank"> <img align="center" src="imgs/css3-original-wordmark.svg" height="40" width="40"/> </a>
+    <a href="https://github.com/raulrsoares/robot" target="_blank"> <img align="center" src="imgs/arduino.svg" height="40" width="40"/> </a>
 </div>
 
 <br>
