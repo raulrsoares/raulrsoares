@@ -1,5 +1,5 @@
 <h1 align="left">Olá 👋, sou Raul R. Soares</h1>
-<h3 align="left">Tecnico em Redes de computadores em ascensão p/ DevOps</h3>
+<p align="left">Tecnico em Redes de computadores em ascensão p/ DevOps</p>
 
 <!--
 <div align="left">
@@ -8,6 +8,12 @@
     </ul>
 </div> 
 -->
+
+<h3> Total de Visitas 🔍 </h3>
+<!-- <p align="left"> <img src= "https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat" alt="raulrsoares" /> </p>
+-->
+<p align="left"> <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=raulrsoares.visitor-badge&left_text=Visitas&query_only=true" alt="Contador"/> </p>
+
 
 <h3 align="left">Conecte-se comigo:</h3>
 <div align="left">
@@ -61,12 +67,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=gotham" alt="raulrsoares" />
 </div><br><br><br>
 
-<h3> Total de Visitas 🔍 </h3>
-<!-- <p align="left"> <img src= "https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat" alt="raulrsoares" /> </p>
--->
-<p align="left"> <img align="center" src="https://profile-counter.glitch.me/raulrsoares/count.svg" alt="Contador"/> </p>
-
-<script src="https://gist.github.com/everaldo/8e68d143cb776f6fafa9.js"></script>
 ---
 
 <sub>Copyright © 2022 Raul R. Soares </sub>
