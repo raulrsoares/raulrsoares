@@ -9,10 +9,6 @@
 </div> 
 -->
 
-<!-- <p align="left"> <img src= "https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat" alt="raulrsoares" /> </p>
--->
-<p align="left"> <img align="center" src="https://profile-counter.glitch.me/raulrsoares/count.svg" alt="Contador"/> </p>
-
 <h3 align="left">Conecte-se comigo:</h3>
 <div align="left">
     <!--
@@ -64,6 +60,11 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=raulrsoares&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" height="180em"alt="raulrsoares" /> 
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=gotham" alt="raulrsoares" />
 </div><br><br><br>
+
+<h3> Total de Visitas 🔍 </h3>
+<!-- <p align="left"> <img src= "https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat" alt="raulrsoares" /> </p>
+-->
+<p align="left"> <img align="center" src="https://profile-counter.glitch.me/raulrsoares/count.svg" alt="Contador"/> </p>
 
 ---
 
