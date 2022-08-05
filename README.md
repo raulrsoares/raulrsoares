@@ -66,6 +66,7 @@
 -->
 <p align="left"> <img align="center" src="https://profile-counter.glitch.me/raulrsoares/count.svg" alt="Contador"/> </p>
 
+<script src="https://gist.github.com/everaldo/8e68d143cb776f6fafa9.js"></script>
 ---
 
 <sub>Copyright © 2022 Raul R. Soares </sub>
