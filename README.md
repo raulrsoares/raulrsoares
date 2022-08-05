@@ -12,7 +12,7 @@
 <h3> Total de Visitas 🔍 </h3>
 <!-- <p align="left"> <img src= "https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat" alt="raulrsoares" /> </p>
 -->
-<p align="left"> <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=raulrsoares.visitor-badge&left_text=Visitas&query_only=true" alt="Contador"/> </p>
+<p align="left"> <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=raulrsoares.visitor-badge&left_text=Visitas" alt="Contador"/> </p>
 
 
 <h3 align="left">Conecte-se comigo:</h3>
