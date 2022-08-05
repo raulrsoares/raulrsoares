@@ -9,7 +9,9 @@
 </div> 
 -->
 
-<p align="left"> <img src= "https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat" alt="raulrsoares" /> </p>
+<!-- <p align="left"> <img src= "https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat" alt="raulrsoares" /> </p>
+-->
+<p align="left"> <img align="center" src="https://profile-counter.glitch.me/raulrsoares/count.svg" alt="Contador"/> </p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <div align="left">
