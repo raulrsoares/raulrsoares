@@ -6,7 +6,7 @@
 </div> 
  -->
 
-<h2 align="left">:mag: Total de Visitas 🔍</h2>
+<h2 align="left">:mag: Total de Visitas :mag:</h2>
 
 ![raulrsoares](https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat)
 
@@ -29,6 +29,7 @@
     <a href="https://github.com/" target="_blank" rel="noreferrer" > <img  src="imgs/github.png" alt="GitHub" width="40" height="40"/> </a>  <!--  -->
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="imgs/linux-original.svg" alt="linux" width="40" height="40"/> </a> <!--  -->
 </div>
+
 <!--!!! Ferramentas que quero aprender !!!-->
 <h2 align="left">:lock: Estudando Atualmente :lock:</h2>
 <div>
@@ -42,7 +43,10 @@
 </div>
 
 <!--!!! Interesses !!!-->
+<h2 align="left">:chart_with_upwards_trend: Interesses :chart_with_upwards_trend:</h2>
+<div>
 
+</div>
 <!--!!! Construção !!!-->
 <!-- 
 <h2 align="left">:construction: Projetos em construção :construction:</h2>
