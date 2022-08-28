@@ -70,8 +70,6 @@
     <a href="https://github.com/raulrsoares/robot" target="_blank"> <img align="center" src="imgs/arduino.svg" height="40" width="40"/> </a>
 </div>
 
-<br>
-
 <!--!!! Git stats !!!!-->
 <h2 align="left">:point_right: Git Stats :point_left:</h2>
 <div alig="left">
