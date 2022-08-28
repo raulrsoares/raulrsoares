@@ -21,7 +21,7 @@
 </div>
 
 <!--!!! Idiomas/Ferramentas que sei !!!-->
-<h2 align="left">:unlock: Idiomas e ferramentas 🧠</h2>
+<h2 align="left">:unlock: Linguagens e Ferramentas 🧠</h2>
 <div align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="imgs/aws.svg" alt="aws" width="40" height="40"/> </a> <!--  -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" > <img src="imgs/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <!--  -->
