@@ -9,10 +9,10 @@
 </div> 
 -->
 
-<h3> Total de Visitas 🔍 </h3>
-<!-- <p align="left"> <img src= "https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat" alt="raulrsoares" /> </p>
--->
-<p align="left"> <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=raulrsoares.visitor-badge&left_text=Visitas" alt="Contador"/> </p>
+### Total de Visitas 🔍
+![raulrsoares](https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat)
+
+<!-- ![raulrsoares](https://visitor-badge.laobi.icu/badge?page_id=raulrsoares.visitor-badge&left_text=Visitas) -->
 
 
 <h3 align="left">Conecte-se comigo:</h3>
@@ -46,13 +46,13 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="imgs/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> -->
 </div>
 
-<!--
+<!-- 
 <h3 align="left">:construction:  Projetos em construção  :construction:</h3>
 <div align="left">
-</div>
--->
+</div> -->
 
-<h3 align="left">:open_file_folder:Ultimos Projetos:open_file_folder:</h3>
+
+### :open_file_folder:Ultimos Projetos:open_file_folder:
 <div align="left">
     <a href="https://github.com/raulrsoares/P1-HTML" target="_blank"> <img align="center"  src="imgs/html5-original-wordmark.svg" height="40" width="40" /> </a>
     <a href="https://github.com/raulrsoares/P2-HTML" target="_blank"> <img align="center"  src="imgs/html5-original-wordmark.svg" height="40" width="40" /> </a>
@@ -61,10 +61,14 @@
 </div>
 
 <br>
-
+<!--!!! Git stats !!!!-->
 <div alig="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=raulrsoares&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" height="180em"alt="raulrsoares" /> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=gotham" alt="raulrsoares" />
+
+[![raulrsoares](https://github-readme-stats.vercel.app/api?username=raulrsoares&show_icons=true&theme=gotham&include_all_commits=true&count_private=true")](https://github.com/raulrsoares/)
+
+[![raulrsoares](https://github-readme-stats.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=gotham)](https://github.com/raulrsoares/)
+    <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=raulrsoares&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" height="180em"alt="raulrsoares" />  -->
+    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=gotham" alt="raulrsoares" /> -->
 </div><br><br><br>
 
 ---
