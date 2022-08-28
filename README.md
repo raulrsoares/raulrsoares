@@ -21,7 +21,7 @@
 </div>
 
 <!--!!! Idiomas/Ferramentas que sei !!!-->
-<h2 align="left">:unlock: Idiomas e ferramentas :unlock:</h2>
+<h2 align="left">:unlock: Idiomas e ferramentas 🧠</h2>
 <div align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="imgs/aws.svg" alt="aws" width="40" height="40"/> </a> <!--  -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" > <img src="imgs/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <!--  -->
@@ -31,7 +31,7 @@
 </div>
 
 <!--!!! Ferramentas que quero aprender !!!-->
-<h2 align="left">:lock: Estudando Atualmente :lock:</h2>
+<h2 align="left">:books: Estudando Atualmente :books:</h2>
 <div>
     <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a> <!--  -->
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> <!-- --> 
@@ -45,7 +45,15 @@
 <!--!!! Interesses !!!-->
 <h2 align="left">:chart_with_upwards_trend: Interesses :chart_with_upwards_trend:</h2>
 <div>
-
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <!--  -->
+    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <!--  -->
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <!--  -->
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <!--  -->
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <!--  -->
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <!--  -->
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <!--  -->
+    <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <!--  -->
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <!--  -->
 </div>
 <!--!!! Construção !!!-->
 <!-- 
