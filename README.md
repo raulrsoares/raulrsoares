@@ -64,9 +64,7 @@
 <!--!!! Git stats !!!!-->
 <div alig="left">
 
-[![raulrsoares](https://github-readme-stats.vercel.app/api?username=raulrsoares&show_icons=true&theme=gotham&include_all_commits=true&count_private=true")](https://github.com/raulrsoares/)
-
-[![raulrsoares](https://github-readme-stats.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=gotham)](https://github.com/raulrsoares/)
+[![raulrsoares](https://github-readme-stats.vercel.app/api?username=raulrsoares&show_icons=true&theme=gotham&include_all_commits=true&count_private=true")](https://github.com/raulrsoares/) [![raulrsoares](https://github-readme-stats.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=gotham)](https://github.com/raulrsoares/)
     <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=raulrsoares&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" height="180em"alt="raulrsoares" />  -->
     <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=gotham" alt="raulrsoares" /> -->
 </div><br><br><br>
