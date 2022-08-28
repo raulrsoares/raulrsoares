@@ -21,7 +21,7 @@
 </div>
 
 <!--!!! Idiomas/Ferramentas que sei !!!-->
-<h2 align="left">:unlock:Idiomas e ferramentas:unlock:</h2>
+<h2 align="left">:unlock: Idiomas e ferramentas :unlock:</h2>
 <div align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="imgs/aws.svg" alt="aws" width="40" height="40"/> </a> <!--  -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" > <img src="imgs/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <!--  -->
@@ -30,7 +30,7 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="imgs/linux-original.svg" alt="linux" width="40" height="40"/> </a> <!--  -->
 </div>
 <!--!!! Ferramentas que quero aprender !!!-->
-<h2 align="left">:lock: Atualmente Estudando :lock:</h2>
+<h2 align="left">:lock: Estudando Atualmente :lock:</h2>
 <div>
     <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a> <!--  -->
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> <!-- --> 
@@ -41,14 +41,16 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><!--  -->
 </div>
 
+<!--!!! Interesses !!!-->
+
 <!--!!! Construção !!!-->
 <!-- 
-<h2 align="left">:construction:  Projetos em construção  :construction:</h2>
+<h2 align="left">:construction: Projetos em construção :construction:</h2>
 <div align="left">
 </div> -->
 
 <!--!!! Ultimas coisas que fiz !!!-->
-<h2 align="left">:open_file_folder:Ultimos Projetos:open_file_folder:</h2>
+<h2 align="left">:open_file_folder: Ultimos Projetos :open_file_folder:</h2>
 <div align="left">
     <a href="https://github.com/raulrsoares/P1-HTML" target="_blank"> <img align="center"  src="imgs/html5-original-wordmark.svg" height="40" width="40" /> </a>
     <a href="https://github.com/raulrsoares/P2-HTML" target="_blank"> <img align="center"  src="imgs/html5-original-wordmark.svg" height="40" width="40" /> </a>
