@@ -6,14 +6,14 @@
 </div> 
  -->
 
-<h2 align="left">Total de Visitas 🔍</h2>
+<h2 align="left">:mag: Total de Visitas 🔍</h2>
 
 ![raulrsoares](https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat)
 
 <!-- ![raulrsoares](https://visitor-badge.laobi.icu/badge?page_id=raulrsoares.visitor-badge&left_text=Visitas) -->
 
 <!--!!! Conections !!!-->
-<h2 align="left">Conecte-se comigo:</h2>
+<h2 align="left">:email: Conecte-se comigo :email:</h2>
 <div align="left">
     <a href="https://www.linkedin.com/in/raul-rodrigues-soares-4b7975232/" target="_blank"><img align="center" src="imgs/linked-in-alt.svg" alt="Raul Rodrigues Soares" height="30" /> </a>
     <a href= "https://instagram.com/r4ulrs" target="_blank"><img align="center" src="imgs/instagram.svg" alt="r4aulrs" height="30" /> </a>
