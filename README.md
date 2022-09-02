@@ -15,9 +15,9 @@
 <!--!!! Conections !!!-->
 <h2 align="left">:email: Conecte-se comigo :email:</h2>
 <div align="left">
-    <a href="https://www.linkedin.com/in/raul-rodrigues-soares-4b7975232/" target="_blank"><img align="center" src="imgs/linked-in-alt.svg" alt="Raul Rodrigues Soares" height="30" /> </a>
-    <a href= "https://instagram.com/r4ulrs" target="_blank"><img align="center" src="imgs/instagram.svg" alt="r4aulrs" height="30" /> </a>
-    <a href="https://discord.com/users/535253561551093771" target="_blank"><img align="center"src="imgs/discord.svg" alt="r4ulzito#8134" height="30" /> </a>
+    <a href="https://www.linkedin.com/in/raul-rodrigues-soares-4b7975232/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Raul Rodrigues Soares" height="30" /> </a>
+    <a href= "https://instagram.com/r4ulrs" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="r4aulrs" height="30" /> </a>
+    <a href="https://discord.com/users/535253561551093771" target="_blank"><img align="center"src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="r4ulzito#8134" height="30" /> </a>
 </div>
 
 <!--!!! Idiomas/Ferramentas que sei !!!-->
@@ -25,7 +25,7 @@
 <div align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a> <!--  -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/> </a> <!--  -->
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" > <img src="imgs/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/> </a> <!--  -->
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/> </a> <!--  -->
     <a href="https://github.com/" target="_blank" rel="noreferrer" > <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GitHub" width="40" height="40"/> </a>  <!--  -->
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" " alt="linux" width="40" height="40"/> </a> <!--  -->
 </div>
