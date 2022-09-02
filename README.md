@@ -24,7 +24,7 @@
 <h2 align="left">:unlock: Linguagens e Ferramentas 🧠</h2>
 <div align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a> <!--  -->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <!--  -->
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/> </a> <!--  -->
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" > <img src="imgs/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/> </a> <!--  -->
     <a href="https://github.com/" target="_blank" rel="noreferrer" > <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GitHub" width="40" height="40"/> </a>  <!--  -->
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" " alt="linux" width="40" height="40"/> </a> <!--  -->
