@@ -73,8 +73,8 @@
 <!--!!! Git stats !!!!-->
 <h2 align="left">:point_right: Git Stats :point_left:</h2>
 <div alig="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=raulrsoares&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" height="180em"alt="raulrsoares" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=gotham" alt="raulrsoares" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=raulrsoares&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180em"alt="raulrsoares" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=radical" alt="raulrsoares" />
 </div><br>
 
 ---
