@@ -11,7 +11,6 @@
 ![raulrsoares](https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat)
 
 <!-- ![raulrsoares](https://visitor-badge.laobi.icu/badge?page_id=raulrsoares.visitor-badge&left_text=Visitas) -->
-[<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="30" align="center" >](https://www.terraform.io/),
 <!--!!! Conections !!!-->
 <h2 align="left">:email: Conecte-se comigo :email:</h2>
 <div align="left">
