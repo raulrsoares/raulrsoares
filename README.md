@@ -3,7 +3,7 @@
 
 ## :mag: Total de Visitas :mag:
 
-![raulrsoares](https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat)
+[![raulrsoares](https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 
 <!--!!! Conections !!!-->
 ## :email: Conecte-se comigo :email:
@@ -32,6 +32,5 @@
 <!--!!! Git stats !!!!-->
 ## :point_right: Git Stats :point_left:
 <!-- show_icons -->
-<!-- height="180em" -->
 [![Raul Soares's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulrsoares&theme=transparent&include_all_commits=true&count_private=true&card_width=300px)](https://github.com/anuraghazra/github-readme-stats)
 [![Raul Soares's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
