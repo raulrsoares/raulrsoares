@@ -5,16 +5,12 @@
 
 ![raulrsoares](https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat)
 
----
-
 <!--!!! Conections !!!-->
 ## :email: Conecte-se comigo :email:
 
 <!-- [<img src="path/to/image.png">](https://link-to-your-URL/) -->
 [<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="link" height="30" />](https://www.linkedin.com/in/raulrsoares)
 [<img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="link" height="30" />](https://discord.com/users/535253561551093771)
-
----
 
 <!--!!! Idiomas/Ferramentas que sei !!!-->
 ## :unlock: Linguagens e Ferramentas 🧠
@@ -27,15 +23,11 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>](https://www.linux.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>](https://www.python.org)
 
----
-
 <!--!!! Ferramentas que quero aprender !!!-->
 ## :books: Estudando Atualmente :books:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>](https://www.docker.com)
 [<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/>](https://www.ansible.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>](https://www.typescriptlang.org)
-
----
 
 <!--!!! Git stats !!!!-->
 ## :point_right: Git Stats :point_left:
