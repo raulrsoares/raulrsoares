@@ -31,5 +31,6 @@
 
 <!--!!! Git stats !!!!-->
 ## :point_right: Git Stats :point_left:
-[![Raul Soares's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulrsoares&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Raul Soares's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- show_icons -->
+[![Raul Soares's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulrsoares&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Raul Soares's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
