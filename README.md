@@ -1,20 +1,19 @@
-<h1 align="center">Olá 👋, sou Raul Soares</h1>
-<h3 align="center">Tecnico em Redes de computadores em ascensão p/ DevOps</h3>
+# Olá 👋, sou Raul Soares
+### Técnico em Redes de computadores em ascensão p/ DevOps
 
-<!-- 
-<div align="left">
-</div> 
- -->
 
-<h2 align="left">:mag: Total de Visitas :mag:</h2>
+## :mag: Total de Visitas :mag:
 
 ![raulrsoares](https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat)
 
-<!-- ![raulrsoares](https://visitor-badge.laobi.icu/badge?page_id=raulrsoares.visitor-badge&left_text=Visitas) -->
 <!--!!! Conections !!!-->
-<h2 align="left">:email: Conecte-se comigo :email:</h2>
+## :email: Conecte-se comigo :email:
+
+<!-- [<img src="path/to/image.png">](https://link-to-your-URL/) -->
+[<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="link" height="30" />](https://www.linkedin.com/in/raulrsoares/)
+
 <div align="left">
-    <a href="https://www.linkedin.com/in/raul-rodrigues-soares-4b7975232/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Raul Rodrigues Soares" height="30" /> </a>
+    <a href="" target="_blank">  </a>
     <a href= "https://instagram.com/r4ulrs" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="r4aulrs" height="30" /> </a>
     <a href="https://discord.com/users/535253561551093771" target="_blank"><img align="center"src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="r4ulzito#8134" height="30" /> </a>
 </div>
