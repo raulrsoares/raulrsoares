@@ -31,5 +31,5 @@
 
 <!--!!! Git stats !!!!-->
 ## :point_right: Git Stats :point_left:
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=raulrsoares&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180em" alt="raulrsoares" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=radical" alt="raulrsoares" />
+[![Raul Soares's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulrsoares&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Raul Soares's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
