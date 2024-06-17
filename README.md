@@ -10,7 +10,7 @@
 
 <!-- [<img src="path/to/image.png">](https://link-to-your-URL/) -->
 [<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="link" height="30" />](https://www.linkedin.com/in/raulrsoares)
-[<img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="link" height="30" />](https://discord.com/users/535253561551093771)
+[<img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="link" height="30" />](https://discord.com/users/535253561551093771)
 
 <!--!!! Idiomas/Ferramentas que sei !!!-->
 ## :unlock: Linguagens e Ferramentas 🧠
