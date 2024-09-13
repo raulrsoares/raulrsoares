@@ -17,6 +17,7 @@
 
 [<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>](https://www.terraform.io/)
 [<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/>](https://aws.amazon.com)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>](https://www.docker.com)
 [<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" height="40"/>](https://git-scm.com)
 [<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" height="40"/>](https://code.visualstudio.com)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>](https://github.com)
@@ -26,7 +27,6 @@
 <!--!!! Ferramentas que quero aprender !!!-->
 ## :books: Estudando Atualmente :books:
 [<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>](https://kubernetes.io/pt-br/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>](https://www.docker.com)
 [<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/>](https://www.ansible.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>](https://www.typescriptlang.org)
 
