@@ -28,7 +28,8 @@
 ## :books: Estudando Atualmente :books:
 [<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>](https://kubernetes.io/pt-br/)
 [<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/>](https://www.ansible.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>](https://www.typescriptlang.org)
+[<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40" height="40"/>](https://www.java.com/pt-BR/)
+<!-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>](https://www.typescriptlang.org)  -->
 
 <!--!!! Git stats !!!!-->
 ## :point_right: Git Stats :point_left:
