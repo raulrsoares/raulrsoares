@@ -1,39 +1,25 @@
-# Olá 👋, sou Raul Soares
-### DevOps
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-## :mag: Total de Visitas :mag:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;I'm+Raul+Soares,;an+20-year-old+IT+professional;passionate+about+challenges+and+innovation!)](https://git.io/typing-svg)
 
-[![raulrsoares](https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
+<div align="center">    
+  <img width="49%" height="195px" src="https://stats-github-silk.vercel.app/api?username=raulrsoares&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Raul Soares's GitHub stats" /> 
+  <img width="41%" height="195px" src="https://stats-github-silk.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=transparent&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-<!--!!! Conections !!!-->
-## :email: Conecte-se comigo :email:
+## Main Skills
 
-<!-- [<img src="path/to/image.png">](https://link-to-your-URL/) -->
-[<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="link" height="30" />](https://www.linkedin.com/in/raulrsoares)
-[<img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="link" height="30" />](https://discord.com/users/535253561551093771)
+[![My Skills](https://skillicons.dev/icons?i=terraform,aws,docker,github,linux,py)](https://skillicons.dev)
 
-<!--!!! Idiomas/Ferramentas que sei !!!-->
-## :unlock: Linguagens e Ferramentas 🧠
+## Currently Learning
 
-[<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>](https://www.terraform.io/)
-[<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/>](https://aws.amazon.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>](https://www.docker.com)
-[<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" height="40"/>](https://git-scm.com)
-[<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" height="40"/>](https://code.visualstudio.com)
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>](https://github.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>](https://www.linux.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>](https://www.python.org)
+[![My Skills](https://skillicons.dev/icons?i=java,kubernetes,ansible,ts)](https://skillicons.dev)
 
-<!--!!! Ferramentas que quero aprender !!!-->
-## :books: Estudando Atualmente :books:
-[<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>](https://kubernetes.io/pt-br/)
-[<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/>](https://www.ansible.com)
-[<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40" height="40"/>](https://www.java.com/pt-BR/)
-<!-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>](https://www.typescriptlang.org)  -->
-
-<!--!!! Git stats !!!!-->
-## :point_right: Git Stats :point_left:
-<!-- show_icons=true -->
-<!-- card_width=300px -->
-[![Raul Soares's GitHub stats](https://stats-github-silk.vercel.app/api?username=raulrsoares&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Raul Soares's GitHub stats](https://stats-github-silk.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raulrsoares/raulrsoares/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raulrsoares/raulrsoares/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raulrsoares/raulrsoares/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
